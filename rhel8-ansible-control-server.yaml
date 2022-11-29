@@ -6,5 +6,6 @@
     packages:
       - git
       - vim
+    update_packages: true
   roles:
     - yum
